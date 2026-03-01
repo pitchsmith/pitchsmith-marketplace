@@ -1,0 +1,29 @@
+{
+  "name": "pitchsmith-marketplace",
+  "owner": {
+    "name": "Pitchsmith",
+    "email": "support@pitchsmith.ai"
+  },
+  "metadata": {
+    "description": "Official Pitchsmith plugin marketplace — AI-powered slide builder for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "pitchsmith",
+      "source": {
+        "source": "github",
+        "repo": "pitchsmith/pitchsmith-plugin"
+      },
+      "description": "AI-powered slide builder — plan, build, and export brand-perfect presentations",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": ["slides", "presentations", "design", "brand", "ai"],
+      "author": {
+        "name": "Pitchsmith"
+      },
+      "homepage": "https://pitchsmith.ai",
+      "license": "ELv2"
+    }
+  ]
+}
