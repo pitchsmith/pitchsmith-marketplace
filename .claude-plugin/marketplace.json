@@ -16,7 +16,7 @@
         "repo": "pitchsmith/pitchsmith-plugin"
       },
       "description": "AI-powered slide builder — plan, build, and export brand-perfect presentations",
-      "version": "0.1.0",
+      "version": "0.1.5",
       "category": "productivity",
       "tags": ["slides", "presentations", "design", "brand", "ai"],
       "author": {
