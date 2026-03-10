@@ -24,7 +24,7 @@ Official Claude Code marketplace for the Pitchsmith plugin — AI-powered slide 
 
 | Plugin | Version | Category | Description |
 |--------|---------|----------|-------------|
-| `pitchsmith` | 0.2.3 | productivity | AI-powered slide builder — plan, build, and export brand-perfect presentations |
+| `pitchsmith` | 0.2.4 | productivity | AI-powered slide builder — plan, build, and export brand-perfect presentations |
 
 ## What You Get
 
