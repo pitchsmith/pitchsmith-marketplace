@@ -12,7 +12,7 @@ Official Claude Code marketplace for the Pitchsmith plugin — AI-powered slide 
 /plugin install pitchsmith@pitchsmith-marketplace
 
 # Step 3: Start building slides
-/sb
+/pitchsmith
 ```
 
 ## Prerequisites
@@ -24,14 +24,14 @@ Official Claude Code marketplace for the Pitchsmith plugin — AI-powered slide 
 
 | Plugin | Version | Category | Description |
 |--------|---------|----------|-------------|
-| `pitchsmith` | 0.2.9 | productivity | AI-powered slide builder — plan, build, and export brand-perfect presentations |
+| `pitchsmith` | 0.2.10 | productivity | AI-powered slide builder — plan, build, and export brand-perfect presentations |
 
 ## What You Get
 
 After installing Pitchsmith, you'll have access to:
 
-- **26 slash commands** across 4 namespaces (`/sb`, `/sb-create`, `/sb-manage`, `/sb-brand`)
-- **Smart router** — `/sb` detects your workspace state and routes to the right workflow
+- **26 slash commands** across the `/pitchsmith` namespace
+- **Smart router** — `/pitchsmith` detects your workspace state and routes to the right workflow
 - **Zero-config setup** — Default theme, templates, and sample deck scaffold automatically on first run
 - **PDF brand extraction** — Bundled MCP server extracts colors, fonts, and logos from brand guidelines
 
